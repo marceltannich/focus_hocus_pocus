@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Focus - Hocus Pocus
-Plugin URI: https://wordpress.org/plugins/focus-hocus-pocus
+Plugin URI: https://github.com/mardroid/focus_hocus_pocus/
 Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Thijs van Leer from Focus: Hocus Pocus. When activated you will randomly see a lyric from <cite>Hocus Pocus</cite> in the upper right of your admin screen on every page.
 Author: Tannich Marcel
 Version: 1.0
