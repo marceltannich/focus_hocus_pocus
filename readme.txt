@@ -1,4 +1,3 @@
-## 
 === Focus - Hocus Pocus === 
 - Contributors: Tannich Marcel
 - Requires at least: 3.0
